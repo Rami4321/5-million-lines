@@ -82,3 +82,5 @@ Remove docker containers
 docker compose down
 docker compose -f compose-editor.yaml down
 ```
+
+Bazinga
