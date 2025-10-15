@@ -1,0 +1,6 @@
+[submodule "irs_ws/src/omron_base"]
+	path = irs_ws/src/omron_base
+	url = https://github.com/CollaborativeRoboticsLab/omron_base
+[submodule "irs_ws/src/omron_arm"]
+	path = irs_ws/src/omron_arm
+	url = https://github.com/CollaborativeRoboticsLab/omron_arm
